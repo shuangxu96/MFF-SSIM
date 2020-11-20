@@ -12,7 +12,7 @@ Towards Reducing Severe Defocus Spread Effects for Multi-Focus Image Fusion via 
 
 ## Reference
 ```
-@article{DBLP:journals/corr/abs-2005-08448,
+@article{MFF_SSIM,
   author    = {Shuang Xu and
                Zixiang Zhao and
                Yicheng Wang and
@@ -23,7 +23,7 @@ Towards Reducing Severe Defocus Spread Effects for Multi-Focus Image Fusion via 
   journal   = {IEEE Transactions on Computational Imaging},
   volume    = {},
   year      = {2020},
-  url       = {https://arxiv.org/abs/2005.08448},
+  url       = {},
 
 
 }
