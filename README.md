@@ -14,10 +14,11 @@ Towards Reducing Severe Defocus Spread Effects for Multi-Focus Image Fusion via 
 ```
 @article{MFF_SSIM,
   author    = {Shuang Xu and
-               Zixiang Zhao and
-               Yicheng Wang and
+               Lizhen Ji and
+               Zhe Wang and
+               Pengfei Li and
+               Kai Sun and
                Chunxia Zhang and
-               Junmin Liu and
                Jiangshe Zhang},
   title     = {Towards Reducing Severe Defocus Spread Effects for Multi-Focus Image Fusion via an Optimization Based Strategy},
   journal   = {IEEE Transactions on Computational Imaging},
