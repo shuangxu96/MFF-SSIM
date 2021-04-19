@@ -23,12 +23,12 @@ The MFFW dataset is available at [this page](https://www.researchgate.net/public
                Kai Sun and
                Chunxia Zhang and
                Jiangshe Zhang},
-  title     = {Towards Reducing Severe Defocus Spread Effects for Multi-Focus Image Fusion via an Optimization Based Strategy},
-  journal   = {IEEE Transactions on Computational Imaging},
-  volume    = {},
+  title     = {Towards Reducing Severe Defocus Spread Effects for Multi-Focus Image
+               Fusion via an Optimization Based Strategy},
+  journal   = {{IEEE} Trans. Computational Imaging},
+  volume    = {6},
+  pages     = {1561--1570},
   year      = {2020},
-  url       = {},
-
-
+  url       = {https://doi.org/10.1109/TCI.2020.3039564},
 }
 ```
